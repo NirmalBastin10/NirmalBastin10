@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirmal</h1>
-<h3 align="center">Engineering student from Mysore, Indi</h3>
+<h3 align="center">Engineering student from Mysore, India</h3>
 
 <div style="display: inline-flex; align-items: center;">
     <h3 style="margin-right: 10px;">Tech Stacks:</h3>
